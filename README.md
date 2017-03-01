@@ -1,6 +1,6 @@
 We重邮
 ===
-官网：https://we.cqu.pt \ http://we.cqupt.edu.cn
+官网：https://we.cqu.pt \  http://we.cqupt.edu.cn
 
 > **We重邮** 是一款**微信小程序**，由重庆邮电大学信息化办/信息中心指导，（学生技术组织/团队）开发，有别于公众号的一种全新的连接用户与服务的方式，无需下载与安装即可在微信内被便捷地获取和传播，同时具有出色的使用体验。
 > 
@@ -25,13 +25,13 @@ We重邮
 <img src="https://cloud.githubusercontent.com/assets/11243798/21806457/5fe63014-d774-11e6-94bd-6dc1b3cc2270.jpg" alt="二维码" width="50%">
 <img src="https://cloud.githubusercontent.com/assets/11243798/21165504/c4c85a02-c1da-11e6-8937-36e9a8f5de59.png" alt="首页" width="50%">
 
-更多截图见：https://github.com/lanshan-studio/wecqupt/issues/196
+
 
 ---
 
 ## 开源许可证 License AGPLv3
  
-> 开源是一种精神，We重邮微信小程序的开源更是蓝山工作室的一种进步
+> 开源是一种精神，We重邮微信小程序的开源更是一种进步
 > 
 > 开源是自由的，而不是免费的。Free(自由) is not free(免费)
 
